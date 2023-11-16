@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+form {
+    max-width: 300px;
+    margin: auto;
+}
+
+input, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+.food-details, .hostel-details {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.food-item, .hostel-item {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    max-width: 300px;
+    text-align: left;
+}
+
+.food-item h2, .hostel-item h2 {
+    margin-bottom: 10px;
+}
+
+.food-item p, .hostel-item p {
+    margin: 10px 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+.route-details {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.route-item {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    max-width: 300px;
+    text-align: left;
+}
+
+.route-item h2 {
+    margin-bottom: 10px;
+}
+
+.route-item p {
+    margin: 10px 0;
+}
+
+
+
